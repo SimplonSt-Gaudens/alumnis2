@@ -7,6 +7,8 @@ Créez donc un MVP (Minimum Viable Product) de la plateforme présentée, envoye
 Respectez votre dossier de conception technique.
 Montrez au client que vous savez créer/gérer une base de données. Sinon, il ne vous prendra pas au sérieux.
 
+# Il est interdit d'utiliser un CMS
+
 ## Rendu
 Avant le 07/11 à minuit.
 ### Repo github + version en ligne du projet.
